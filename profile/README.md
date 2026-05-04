@@ -1,13 +1,14 @@
-## NextClient
-
 [CS NextClient](https://github.com/CS-NextClient)
 
-## Our AMX Mod X modules
-
+<details>
+<summary>Our AMX Mod X modules</summary>
+  
 * [AmxxEasyHttp](https://github.com/Next21Team/AmxxEasyHttp): provide an easy to use API for HTTP, HTTPS and FTP requests
+</details>
 
-## Our AMX Mod X plugins
-
+<details>
+<summary>Our AMX Mod X plugins</summary>
+  
 * [Advanced Kill Assists](https://github.com/Next21Team/Advanced-Kill-Assists): display kill assists
 * [AutoPistol](https://github.com/Next21Team/AutoPistol): automatic pistol shooting
 * [Checkpoints](https://github.com/Next21Team/Checkpoints): manage checkpoints
@@ -27,3 +28,4 @@
 * [Simple Adverts](https://github.com/Next21Team/Simple-Adverts): show notifications
 * [Slot Machine](https://github.com/Next21Team/Slot-Machine): slot machine game
 * [Surf Board](https://github.com/Next21Team/Surf-Board): add a surfboard model
+</details>
